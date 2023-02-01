@@ -9,6 +9,8 @@ Features:
 - Displays transaction details, including date, time, amount and description
 - Utilizes CSS for styling, including font choices and color palette
 
+<img width="365" alt="uba_alert" src="https://user-images.githubusercontent.com/88712885/215928214-25f97d05-00a6-44a9-b85a-62d014e35393.png">
+
 Getting Started:
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -30,4 +32,5 @@ Contributing
 If you'd like to contribute to this project, please fork the repository and make changes as you'd like. Pull requests are always welcome.
 
 Author
+
 David Obeh Alobo

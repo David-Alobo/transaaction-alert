@@ -1,4 +1,4 @@
-#Bank Transaction Alert Page Clone
+# Bank Transaction Alert Page Clone
 
 This project is a clone of a bank transaction alert page, created using HTML and CSS. The aim of this project was to demonstrate proficiency in front-end web development by replicating the look and feel of a typical bank transaction alert page.
 
